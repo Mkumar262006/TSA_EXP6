@@ -1,4 +1,4 @@
-<img width="1121" height="612" alt="image" src="https://github.com/user-attachments/assets/9f9a74a7-2551-4043-a807-b858d4ca3098" /># Ex.No: 6               HOLT WINTERS METHOD
+# Ex.No: 6               HOLT WINTERS METHOD
 ### Date: 19-05-2026
 ### RegNo: 212223240082
 
